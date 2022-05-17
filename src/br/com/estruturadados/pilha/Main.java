@@ -33,8 +33,7 @@ public class Main {
 		
 		// Push  - adiciona o 99 no inicio da fila
 		minhaPilha.push(new No(99));
-		System.out.println(minhaPilha);
-		
+		System.out.println(minhaPilha);		
 	}
 
 }
